@@ -1,0 +1,6 @@
+{
+  "name": "Universal Website-to-APK Builder",
+  "description": "Convert any website URL into an installable native Android APK with offline support, file downloads, and GitHub Actions cloud build pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
